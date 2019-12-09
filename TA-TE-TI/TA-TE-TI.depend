@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1575847216 source:c:\users\tomas\desktop\proyectos\ta-te-ti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1575847670 source:c:\users\tomas\desktop\proyectos\ta-te-ti\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funcion.h"
+
+1575847216 c:\users\tomas\desktop\proyectos\ta-te-ti\funcion.h
+
